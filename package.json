@@ -1,0 +1,23 @@
+{
+  "name": "meantutorial2",
+  "version": "1.0.0",
+  "description": "mean stack application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teten777/meanlearn.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Teten Nugraha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teten777/meanlearn/issues"
+  },
+  "homepage": "https://github.com/teten777/meanlearn#readme"
+}
