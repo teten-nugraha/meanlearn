@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/teten777/meanlearn/issues"
   },
-  "homepage": "https://github.com/teten777/meanlearn#readme"
+  "homepage": "https://github.com/teten777/meanlearn#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
 }
